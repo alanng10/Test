@@ -48,4 +48,8 @@ Test has park kind arch marry.
 
 Test has park kind arch land.
 
+Test has park mark.
+
+Test has park cross.
+
 Test has major.
